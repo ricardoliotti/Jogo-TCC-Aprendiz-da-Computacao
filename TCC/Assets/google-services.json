@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "567231681932",
+    "firebase_url": "https://banco-jogotcc.firebaseio.com",
+    "project_id": "banco-jogotcc",
+    "storage_bucket": "banco-jogotcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567231681932:android:94af2720c1f32b415d72a9",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AprendizdaComputacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567231681932-p2qa8u5dep894i4icrfm2hfs9qegjkj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6g6n967LMyx6B667eXrOt016gHVALp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567231681932-p2qa8u5dep894i4icrfm2hfs9qegjkj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567231681932:android:2f26913d4615b5085d72a9",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.JogoTCC2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567231681932-p2qa8u5dep894i4icrfm2hfs9qegjkj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6g6n967LMyx6B667eXrOt016gHVALp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567231681932-p2qa8u5dep894i4icrfm2hfs9qegjkj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
